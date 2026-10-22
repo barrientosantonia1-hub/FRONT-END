@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #ff4757;
+}
+
+p {
+    color: #2f3542;
+}
+
+li {
+    color: #00a8ff;
+    font-weight: bold;
+}
+
+article {
+    background-color: #f1f2f6;
+    padding: 30px;
+    border-radius: 12px;
+    max-width: 600px;
+    margin: 20px auto;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
